@@ -15,8 +15,8 @@ sections:
       url: /contact-us/
       variant: center
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: Know your tenancy
+      subtitle: Understand a Tenancy contract
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
