@@ -412,4 +412,5 @@ terminate the lease with 3 months' notice.</p>
 </ol>
 <hr>
 <p></p>
-<p></p>
+<p><a href="https://www.google.com" rel="noopener nofollow" target="_blank">Use this template</a>
+</p>
