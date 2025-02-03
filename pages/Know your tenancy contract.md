@@ -19,53 +19,8 @@ landlord’s duty.
 </div>
 </details>
 </div>
-<h3></h3>
-<h3>1. STRUCTURE OF THE AGREEMENT</h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>The contract generally consists of three main sections</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>A. The Schedule</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Contains the customizable details of the tenancy agreement.</p>
-</li>
-<li>
-<p>Includes key information such as rent, security deposit, lease period,
-and more.</p>
-</li>
-</ul>
-<p><strong>B. The Operative Part</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Covers general terms &amp; conditions applicable to both parties.</p>
-</li>
-<li>
-<p>Includes clauses on payment, maintenance, tenant obligations, and termination.</p>
-</li>
-</ul>
-<p><strong>C. Annexures</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Annexure A: End-of-tenancy checklist.</p>
-</li>
-<li>
-<p>Annexure B: Inventory List.</p>
-</li>
-<li>
-<p>Annexure C: Property Condition Report.</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-<h3>2. DETAILED TERMS IN THE SCHEDULE</h3>
+<h3>1. DETAILED TERMS IN THE SCHEDULE</h3>
 <p>The Schedule includes specific tenancy terms that are negotiable between
 the landlord and tenant.</p>
 <p><strong>A. General Information</strong>
@@ -323,10 +278,11 @@ the landlord and tenant.</p>
 </tr>
 </tbody>
 </table>
-<h3>4. OPERATIVE PART (General Terms &amp; Conditions)</h3>
+<h3>2. OPERATIVE PART (General Terms &amp; Conditions)</h3>
 <p>This section includes legally binding obligations for both landlords and
 tenants.</p>
-<h4>A. Landlord’s Responsibilities</h4>
+<p><strong>A. Landlord’s Responsibilities</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Maintain the property’s structure, wiring, plumbing, and fixtures.</p>
@@ -341,7 +297,8 @@ tenants.</p>
 <p>Insure the property against fire and damages (if applicable).</p>
 </li>
 </ol>
-<h4>B. Tenant’s Responsibilities</h4>
+<p><strong>B. Tenant’s Responsibilities</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Pay rent and utilities on time.</p>
@@ -363,8 +320,9 @@ tenants.</p>
 &amp; tear).</p>
 </li>
 </ol>
-<h4>C. Landlord’s Right of Entry</h4>
-<ul data-tight="true" class="tight">
+<p><strong>C. Landlord’s Right of Entry</strong>
+</p>
+<ol data-tight="true" class="tight">
 <li>
 <p>Landlord must give at least X hours’ notice before entering for inspections
 or repairs.</p>
@@ -372,8 +330,8 @@ or repairs.</p>
 <li>
 <p>Cannot enter without tenant’s permission except in emergencies.</p>
 </li>
-</ul>
-<h3>5. ANNEXURES (Supporting Documents)</h3>
+</ol>
+<h3>3. ANNEXURES (Supporting Documents)</h3>
 <p>These documents ensure transparency and reduce disputes at the end of
 the lease.</p>
 <p><strong>A. Annexure A – End of Tenancy Checklist</strong>
