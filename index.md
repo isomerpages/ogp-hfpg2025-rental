@@ -27,11 +27,11 @@ sections:
       description: Text card description
       cards:
         - title: Single Tenancy
-          description: ""
+          description: placeholder text
           linktext: Learn more
           url: ""
         - title: Multi tenancy
-          description: " coming soon"
-          linktext: Learn more
+          description: placeholder
+          linktext: Coming soon...
           url: ""
 ---
