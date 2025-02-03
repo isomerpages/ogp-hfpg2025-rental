@@ -410,4 +410,6 @@ terminate the lease with 3 months' notice.</p>
 <p>Disputes should first go to mediation or arbitration before court proceedings.</p>
 </li>
 </ol>
+<hr>
+<p></p>
 <p></p>
