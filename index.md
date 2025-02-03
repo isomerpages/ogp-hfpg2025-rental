@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Know your tenancy
+description: Easily understand and simplify your tenancy contract with our clear
+  and fair tenancy agreement guide. Get a hassle-free rental experience with
+  straightforward terms for landlords and tenants in Singapore.
 image: /images/isomer-logo.svg
 permalink: /
 notification: This is an exploratory prototype that was built for OGP’s Hack for Public Good
