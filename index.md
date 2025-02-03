@@ -31,7 +31,7 @@ sections:
           linktext: Learn more
           url: ""
         - title: Multi tenancy
-          description: ""
+          description: " coming soon"
           linktext: Learn more
           url: ""
 ---
