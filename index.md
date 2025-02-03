@@ -21,7 +21,7 @@ sections:
       button: Button text
       url: /faq/
   - textcards:
-      title: Choose your property type
+      title: Choose your tenancy type
       subtitle: Add informational text
       id: textcards
       description: Text card description
