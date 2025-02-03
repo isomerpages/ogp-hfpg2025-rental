@@ -32,4 +32,12 @@ ending on <strong>[End Date]</strong>.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+</div>
+</details>
+</div>
 <p></p>
