@@ -22,7 +22,7 @@ sections:
       url: /know-your-tenancy-contract/
   - textcards:
       title: Choose your tenancy type
-      subtitle: Add informational text
+      subtitle: Use standard tenancy contract
       id: textcards
       description: Text card description
       cards:
