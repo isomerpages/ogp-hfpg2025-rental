@@ -29,7 +29,7 @@ sections:
       description: Text card description
       cards:
         - title: Single Tenancy
-          description: placeholder text
+          description: placeholder text, add figma link here
           linktext: Learn more
           url: ""
         - title: Multi tenancy
