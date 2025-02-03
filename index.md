@@ -18,8 +18,8 @@ sections:
       title: Know your tenancy
       subtitle: Understand a Tenancy contract
       description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      button: Quick read here
+      url: /know-your-tenancy-contract/
   - textcards:
       title: Choose your tenancy type
       subtitle: Add informational text
