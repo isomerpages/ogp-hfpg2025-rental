@@ -190,7 +190,7 @@ security deposit within <strong>[X] days</strong> of the tenancy end.</p>
 must be supported with receipts or quotations for repairs.</p>
 </li>
 <li>
-<p>If there is a dispute regarding the deductions, both parties agree to
+<p>If there is a dispute regarding the deductions, both parties attempt to
 resolve the matter through mediation before escalating to legal action.</p>
 </li>
 <li>
