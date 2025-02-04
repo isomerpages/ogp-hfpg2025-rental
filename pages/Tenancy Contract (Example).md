@@ -171,7 +171,8 @@ the landlord and tenant.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Charges for overdue rent (e.g., <strong>X% per day after due date</strong>).</p>
+<p>Charges for overdue rent
+<br>(e.g., <strong>1% per day after due date</strong>).</p>
 </td>
 </tr>
 </tbody>
