@@ -171,6 +171,35 @@ address</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>Note on Security Deposit</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The security deposit shall be refunded to the Tenant within <strong>[X] days</strong> after
+the end of the tenancy, provided there are no outstanding rental payments,
+unpaid utility bills, or damages beyond normal wear and tear.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>The Landlord shall provide an itemized list of any deductions from the
+security deposit within <strong>[X] days</strong> of the tenancy end.</p>
+</li>
+<li>
+<p>The security deposit cannot be withheld unreasonably, and any deductions
+must be supported with receipts or quotations for repairs.</p>
+</li>
+<li>
+<p>If there is a dispute regarding the deductions, both parties agree to
+resolve the matter through mediation before escalating to legal action.</p>
+</li>
+<li>
+<p>If the Landlord fails to refund the security deposit within the stipulated
+period without reasonable justification, the Tenant shall be entitled to
+claim the deposit through legal means or the Small Claims Tribunal.</p>
+</li>
+</ul>
+<p></p>
 <p><strong>C. Repairs &amp; Maintenance</strong>
 </p>
 <table style="minWidth: 50px">
