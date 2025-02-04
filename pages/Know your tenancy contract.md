@@ -477,5 +477,5 @@ terminate the lease with 3 months' notice.</p>
 </ol>
 <hr>
 <p></p>
-<p><a href="https://www.google.com" rel="noopener nofollow" target="_blank">Use this template</a>
+<p><a href="https://www.figma.com/proto/ucxFLTcYZ04YNWqP2Rnzpr/Tenancy-Agreement?node-id=39-7996&amp;t=i1gOSKmhisAU3Pb7-1&amp;scaling=min-zoom&amp;content-scaling=fixed&amp;page-id=0%3A1&amp;starting-point-node-id=39%3A7996&amp;show-proto-sidebar=1" rel="noopener nofollow" target="_blank">Use this template</a>
 </p>
