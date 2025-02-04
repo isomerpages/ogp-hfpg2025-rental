@@ -153,9 +153,7 @@ the landlord and tenant.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S$8000 (<strong>2 months' rent</strong>) should be refunded within 15
-days from the date of end of lease. In case of failure to return the deposit,
-the landlord</p>
+<p>S$8000 (<strong>2 months' rent</strong>)</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +181,7 @@ the landlord</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The security deposit shall be refunded to the Tenant within <strong>[X] days</strong> after
+<p>The security deposit shall be refunded to the Tenant within <strong>15 days</strong> after
 the end of the tenancy, provided there are no outstanding rental payments,
 unpaid utility bills, or damages beyond normal wear and tear.</p>
 </li>
@@ -191,15 +189,15 @@ unpaid utility bills, or damages beyond normal wear and tear.</p>
 <ul>
 <li>
 <p>The Landlord shall provide an itemized list of any deductions from the
-security deposit within <strong>[X] days</strong> of the tenancy end.</p>
+security deposit within <strong>15 days</strong> of the tenancy end.</p>
 </li>
 <li>
 <p>The security deposit cannot be withheld unreasonably, and any deductions
 must be supported with receipts or quotations for repairs.</p>
 </li>
 <li>
-<p>If there is a dispute regarding the deductions, both parties agree to
-resolve the matter through mediation before escalating to legal action.</p>
+<p>If there is a dispute regarding the deductions, both parties must attempt
+to resolve the matter through mediation before escalating to legal action.</p>
 </li>
 <li>
 <p>If the Landlord fails to refund the security deposit within the stipulated
@@ -229,7 +227,7 @@ claim the deposit through legal means or the Small Claims Tribunal.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tenant is responsible for minor repairs up to <strong>S$X per incident</strong>.</p>
+<p>Tenant is responsible for minor repairs up to <strong>S$250 per incident</strong>.</p>
 </td>
 </tr>
 <tr>
@@ -336,7 +334,7 @@ washing machines).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Either party must give <strong>X months’ written notice</strong>.</p>
+<p>Either party must give <strong>1 months’ written notice</strong>.</p>
 </td>
 </tr>
 <tr>
@@ -396,7 +394,7 @@ tenants.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Landlord must give at least X hours’ notice before entering for inspections
+<p>Landlord must give at least 24 hours’ notice before entering for inspections
 or repairs.</p>
 </li>
 <li>
