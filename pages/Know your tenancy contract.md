@@ -233,6 +233,40 @@ the landlord and tenant.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>Note: Wear and tear</strong> refers to the natural and gradual
+deterioration of a property and its fixtures due to normal daily use over
+time. It excludes damage caused by negligence, misuse, or accidents.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Examples of Normal Wear and Tear (Landlord’s Responsibility)</p>
+<p>These are <strong>expected and acceptable</strong> changes due to long-term
+use:
+<br>✔ <strong>Faded paint or wallpaper</strong> due to sunlight exposure.
+<br>✔ <strong>Minor scuffs and marks on walls</strong> from furniture placement.
+<br>✔ <strong>Light scratches on wooden floors</strong> from walking or moving
+chairs.
+<br>✔ <strong>Worn-out carpets or rugs</strong> due to foot traffic.
+<br>✔ <strong>Loose door hinges or handles</strong> from frequent use.
+<br>✔ <strong>Dull or slightly chipped countertops</strong> from years of use.
+<br>✔ <strong>Appliances aging naturally</strong> (e.g., a fridge motor wearing
+out).</p>
+<p></p>
+</li>
+<li>
+<p>Examples of Damage (Tenant’s Responsibility)</p>
+<p>These are <strong>avoidable and caused by negligence or misuse</strong>:
+<br>❌ <strong>Holes in walls</strong> from drilling, nails, or hooks not repaired.
+<br>❌ <strong>Stains, burns, or rips</strong> on carpets or flooring.
+<br>❌ <strong>Broken windows, mirrors, or doors</strong> due to impact.
+<br>❌ <strong>Water damage</strong> from leaving taps running or not reporting
+leaks.
+<br>❌ <strong>Mold or pest infestations</strong> due to poor cleanliness.
+<br>❌ <strong>Missing or damaged light fixtures</strong> due to improper use.
+<br>❌ <strong>Broken appliances</strong> due to improper use (e.g., overloading
+washing machines).</p>
+</li>
+</ul>
+<p></p>
 <p><strong>D. Break Clause / Early Termination</strong>
 </p>
 <table style="minWidth: 50px">
