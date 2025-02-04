@@ -63,7 +63,7 @@ the landlord and tenant.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Number of bedrooms and furnished status.</p>
+<p>2-room apartment</p>
 </td>
 </tr>
 <tr>
@@ -72,8 +72,12 @@ the landlord and tenant.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full name, NRIC, FIN, or UEN (for companies), phone number, and email
-address</p>
+<p>MS. WENDY TAN
+<br>
+<br>S8912345J,
+<br>BLK 134F, RIVERVALE DRIVE, SINGAPORE - 123456
+<br>98674321
+<br>wendytan@gmail.com</p>
 </td>
 </tr>
 <tr>
@@ -82,8 +86,10 @@ address</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full name, NRIC, FIN, or UEN (for companies), phone number, and email
-address</p>
+<p>MS. MICHELLE CHEN
+<br>S9567821L
+<br>90001000
+<br>michellechen@gmail.com</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +98,7 @@ address</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Names &amp; NRIC/Work Pass details of people allowed to stay.</p>
+<p>2</p>
 </td>
 </tr>
 </tbody>
@@ -129,7 +135,7 @@ address</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Specifies when the tenancy begins and ends.</p>
+<p>31st January 2025 - 30th January 2027</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +144,7 @@ address</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Amount to be paid each month, due on a fixed date.</p>
+<p>S$4000 to be paid each month, due on a 1st calendar date of each month.</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +153,9 @@ address</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Typically <strong>1-2 months' rent</strong> (refundable upon lease completion).</p>
+<p>S$8000 (<strong>2 months' rent</strong>) should be refunded within 15
+days from the date of end of lease. In case of failure to return the deposit,
+the landlord</p>
 </td>
 </tr>
 <tr>
@@ -171,6 +179,34 @@ address</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>Note on Security Deposit</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The security deposit shall be refunded to the Tenant within <strong>[X] days</strong> after
+the end of the tenancy, provided there are no outstanding rental payments,
+unpaid utility bills, or damages beyond normal wear and tear.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>The Landlord shall provide an itemized list of any deductions from the
+security deposit within <strong>[X] days</strong> of the tenancy end.</p>
+</li>
+<li>
+<p>The security deposit cannot be withheld unreasonably, and any deductions
+must be supported with receipts or quotations for repairs.</p>
+</li>
+<li>
+<p>If there is a dispute regarding the deductions, both parties agree to
+resolve the matter through mediation before escalating to legal action.</p>
+</li>
+<li>
+<p>If the Landlord fails to refund the security deposit within the stipulated
+period without reasonable justification, the Tenant shall be entitled to
+claim the deposit through legal means or the Small Claims Tribunal.</p>
+</li>
+</ul>
 <p><strong>C. Repairs &amp; Maintenance</strong>
 </p>
 <table style="minWidth: 50px">
