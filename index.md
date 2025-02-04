@@ -31,7 +31,7 @@ sections:
         - title: Single Tenancy
           description: some text blah blah
           linktext: Try here
-          url: https://www.figma.com/proto/ucxFLTcYZ04YNWqP2Rnzpr/Tenancy-Agreement?node-id=39-7996&t=i1gOSKmhisAU3Pb7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A7996&show-proto-sidebar=1
+          url: https://www.figma.com/proto/ucxFLTcYZ04YNWqP2Rnzpr/Tenancy-Agreement?node-id=39-7996&t=suSMZYfyBVL7OWpH-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A7996&show-proto-sidebar=1
         - title: Multi tenancy
           description: placeholder
           linktext: Coming soon...
