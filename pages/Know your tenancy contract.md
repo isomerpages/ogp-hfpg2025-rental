@@ -446,7 +446,7 @@ the lease.</p>
 <p>Helps determine fair wear &amp; tear vs. tenant-caused damage.</p>
 </li>
 </ol>
-<h3>6. OTHER IMPORTANT CLAUSES</h3>
+<h3>4. OTHER IMPORTANT CLAUSES</h3>
 <p><strong>A. Exclusion of Liability</strong>
 </p>
 <ol data-tight="true" class="tight">
