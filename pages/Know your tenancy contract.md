@@ -72,7 +72,8 @@ the landlord and tenant.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full name, NRIC, FIN, or UEN (for companies).</p>
+<p>Full name, NRIC, FIN, or UEN (for companies), phone number, and email
+address</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +82,8 @@ the landlord and tenant.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full name, NRIC, FIN, or UEN (for companies).</p>
+<p>Full name, NRIC, FIN, or UEN (for companies), phone number, and email
+address</p>
 </td>
 </tr>
 <tr>
