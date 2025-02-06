@@ -1,6 +1,6 @@
 title: LeaseWise
 url: https://leasewise.hack2025.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/hfpg_logo.svg
 colors:
   primary-color: "#0068c9"
   secondary-color: "#003c7a"
@@ -54,7 +54,7 @@ plugins:
 staging: https://staging-lite.d3p7m5m929qmt9.amplifyapp.com
 prod: https://master.dk8il5h6l7e0j.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/hfpg_logo.svg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
