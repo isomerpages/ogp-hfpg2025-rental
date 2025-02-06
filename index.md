@@ -12,27 +12,41 @@ sections:
       title: LeaseWise
       subtitle: Simplify your rental journey - Hassle-free, transparent, and secure.
       background: /images/hdb2.jpg
-      button: Find out more
-      url: /contact-us/
+      button: Try template contract
+      url: /know-your-tenancy-contract/
       variant: center
+      key_highlights:
+        - title: Simple and clear contracts
+          description: Precise and legal contracts
+          url: ""
+        - title: Read-to-use templates
+          description: Easy to use contract templates
+          url: ""
+        - title: Sign with Singpass
+          description: Authenticated digital signing
+          url: ""
   - infobar:
       title: Know your tenancy
-      subtitle: Understand a Tenancy contract
-      description: About a sentence worth of description here
+      subtitle: Simple and clear contracts
+      description: As landlord or tenants, understand your tenancy contract to protect
+        your rights, avoid disputes, and ensure a smooth experience for both
+        parties
       button: Quick read here
       url: /know-your-tenancy-contract/
   - textcards:
-      title: Choose your tenancy type
-      subtitle: Use standard tenancy contract
+      title: Choose your tenancy contract
+      subtitle: Read-to-use contracts
       id: textcards
-      description: Safeguard your tenancy and property using the standard template contract
+      description: Safeguard your tenancy and property with the template contract,
+        ensuring clear terms, legal protection, and a smooth rental experience
+        for both parties.
       cards:
         - title: Single Tenancy
-          description: some text blah blah
+          description: Use the simplified contract for sole landlords and tenants
           linktext: Try here
           url: https://www.figma.com/proto/ucxFLTcYZ04YNWqP2Rnzpr/Tenancy-Agreement?node-id=39-7996&t=A2CnEytajizzCACU-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A7996
         - title: Multi tenancy
-          description: placeholder
+          description: Use the multi-party contract with sole landlord and multiple tenants
           linktext: Coming soon...
           url: ""
 ---
