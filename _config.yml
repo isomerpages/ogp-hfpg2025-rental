@@ -3,7 +3,7 @@ url: https://leasewise.hack2025.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#005aad"
-  secondary-color: "#f5a623"
+  secondary-color: "#dc8700"
   media-colors:
     - title: media-color-one
       color: "#9b9b9b"
