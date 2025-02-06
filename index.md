@@ -9,9 +9,8 @@ permalink: /
 notification: This is an exploratory prototype that was built for OGP’s Hack for Public Good
 sections:
   - hero:
-      title: Tenancy in Singapore
-      subtitle: Learn more about the best practices for your tenant contract, reuse
-        templates, and much more
+      title: LeaseWise
+      subtitle: Simplify your rental journey - Hassle-free, transparent, and secure.
       background: /images/hdb2.jpg
       button: Find out more
       url: /contact-us/
