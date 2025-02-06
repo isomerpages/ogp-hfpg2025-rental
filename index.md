@@ -12,14 +12,14 @@ sections:
       title: LeaseWise
       subtitle: Simplify your rental journey - Hassle-free, transparent, and secure.
       background: /images/DALL_E_2025_02_06_11_30_50___A_scenic_view_of_Singapore_s_housing_landscape_featuring_modern_high_rise_apartments_and_HDB_flats__The_image_has_a_balanced_composition_with_greenery.png
-      button: Try template contract
-      url: https://www.figma.com/proto/ucxFLTcYZ04YNWqP2Rnzpr/Tenancy-Agreement?node-id=39-7996&t=fJUSZRGxyAYvCsrr-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A7996&show-proto-sidebar=1
+      button: Your guide to tenancy
+      url: /know-your-tenancy-contract/
       variant: center
       key_highlights:
         - title: Simple and clear contracts
           description: Precise and legal contracts
           url: ""
-        - title: Read-to-use templates
+        - title: Ready-to-use templates
           description: Easy to use contract templates
           url: ""
         - title: Sign with Singpass
