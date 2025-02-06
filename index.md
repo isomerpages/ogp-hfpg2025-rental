@@ -13,7 +13,7 @@ sections:
       subtitle: Simplify your rental journey - Hassle-free, transparent, and secure.
       background: /images/DALL_E_2025_02_06_11_30_50___A_scenic_view_of_Singapore_s_housing_landscape_featuring_modern_high_rise_apartments_and_HDB_flats__The_image_has_a_balanced_composition_with_greenery.png
       button: Try template contract
-      url: /know-your-tenancy-contract/
+      url: https://www.figma.com/proto/ucxFLTcYZ04YNWqP2Rnzpr/Tenancy-Agreement?node-id=39-7996&t=fJUSZRGxyAYvCsrr-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A7996&show-proto-sidebar=1
       variant: center
       key_highlights:
         - title: Simple and clear contracts
@@ -26,7 +26,7 @@ sections:
           description: Authenticated digital signing
           url: ""
   - infobar:
-      title: Know your tenancy
+      title: Tenancy Contract Guide
       subtitle: Simple and clear contracts
       description: As landlord or tenants, understand your tenancy contract to protect
         your rights, avoid disputes, and ensure a smooth experience for both
@@ -34,7 +34,7 @@ sections:
       button: Quick read here
       url: /know-your-tenancy-contract/
   - textcards:
-      title: Choose your tenancy contract
+      title: Choose Your Tenancy Contract
       subtitle: Read-to-use contracts
       id: textcards
       description: Safeguard your tenancy and property with the template contract,
@@ -45,7 +45,7 @@ sections:
           description: Use the simplified contract for sole landlords and tenants
           linktext: Try here
           url: https://www.figma.com/proto/ucxFLTcYZ04YNWqP2Rnzpr/Tenancy-Agreement?node-id=39-7996&t=A2CnEytajizzCACU-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A7996
-        - title: Multi tenancy
+        - title: Multi Tenancy
           description: Use the multi-party contract with sole landlord and multiple tenants
           linktext: Coming soon...
           url: ""
