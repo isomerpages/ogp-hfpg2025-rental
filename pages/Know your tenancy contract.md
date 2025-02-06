@@ -179,8 +179,6 @@ address</p>
 the end of the tenancy, provided there are no outstanding rental payments,
 unpaid utility bills, or damages beyond normal wear and tear.</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>The Landlord shall provide an itemized list of any deductions from the
 security deposit within <strong>[X] days</strong> of the tenancy end.</p>
@@ -264,9 +262,11 @@ claim the deposit through legal means or the Small Claims Tribunal.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Note: Wear and tear</strong> refers to the natural and gradual
-deterioration of a property and its fixtures due to normal daily use over
-time. It excludes damage caused by negligence, misuse, or accidents.</p>
+<p><strong>Note on wear and tear</strong>
+</p>
+<p>It refers to the natural and gradual deterioration of a property and its
+fixtures due to normal daily use over time. It excludes damage caused by
+negligence, misuse, or accidents.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Examples of Normal Wear and Tear (Landlord’s Responsibility)</p>
