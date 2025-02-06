@@ -2,11 +2,11 @@ title: Know your tenancy
 url: https://leasewise.hack2025.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#003366"
-  secondary-color: "#66ccff"
+  primary-color: "#005aad"
+  secondary-color: "#f5a623"
   media-colors:
     - title: media-color-one
-      color: "#ff6600"
+      color: "#9b9b9b"
     - title: media-color-two
       color: "#f4f4f4"
     - title: media-color-three
