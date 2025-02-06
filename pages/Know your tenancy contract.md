@@ -446,7 +446,7 @@ the lease.</p>
 <p>Helps determine fair wear &amp; tear vs. tenant-caused damage.</p>
 </li>
 </ol>
-<h3>6. OTHER IMPORTANT CLAUSES</h3>
+<h3>4. OTHER IMPORTANT CLAUSES</h3>
 <p><strong>A. Exclusion of Liability</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -477,5 +477,5 @@ terminate the lease with 3 months' notice.</p>
 </ol>
 <hr>
 <p></p>
-<p><a href="https://www.google.com" rel="noopener nofollow" target="_blank">Use this template</a>
+<p><a href="https://www.figma.com/proto/ucxFLTcYZ04YNWqP2Rnzpr/Tenancy-Agreement?node-id=39-7996&amp;t=A2CnEytajizzCACU-0&amp;scaling=min-zoom&amp;content-scaling=fixed&amp;page-id=0%3A1&amp;starting-point-node-id=39%3A7996" rel="noopener nofollow" target="_blank">Use this template</a>
 </p>
