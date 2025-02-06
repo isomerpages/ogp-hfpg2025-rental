@@ -262,7 +262,7 @@ claim the deposit through legal means or the Small Claims Tribunal.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Note on wear and tear</strong> 
+<p><strong>Note on wear and tear</strong>
 </p>
 <p>It refers to the natural and gradual deterioration of a property and its
 fixtures due to normal daily use over time. It excludes damage caused by
