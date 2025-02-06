@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Know your tenancy
+title: LeaseWise
 description: Easily understand and simplify your tenancy contract with our clear
   and fair tenancy agreement guide. Get a hassle-free rental experience with
   straightforward terms for landlords and tenants in Singapore.
