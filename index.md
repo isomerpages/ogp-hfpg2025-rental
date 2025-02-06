@@ -11,7 +11,7 @@ sections:
   - hero:
       title: LeaseWise
       subtitle: Simplify your rental journey - Hassle-free, transparent, and secure.
-      background: /images/hdb2.jpg
+      background: /images/DALL_E_2025_02_06_11_30_50___A_scenic_view_of_Singapore_s_housing_landscape_featuring_modern_high_rise_apartments_and_HDB_flats__The_image_has_a_balanced_composition_with_greenery.png
       button: Try template contract
       url: /know-your-tenancy-contract/
       variant: center
